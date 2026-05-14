@@ -1,4 +1,4 @@
-# 🛡️ RockLM — Modular AI Security Middleware
+# RockLM — Modular AI Security Middleware
 
 **A pluggable, phase-driven security middleware framework for LLMs, RAG systems, and AI agents.**
 
@@ -6,7 +6,7 @@ RockLM intercepts every prompt and response flowing through your AI pipeline, ap
 
 ---
 
-## 📊 Benchmark Results
+## Benchmark Results
 
 Evaluated on the **[deepset/prompt-injections](https://huggingface.co/datasets/deepset/prompt-injections)** dataset (546 samples):
 
@@ -24,7 +24,7 @@ Evaluated on the **[deepset/prompt-injections](https://huggingface.co/datasets/d
 
 ---
 
-## ✨ Features
+## Features
 
 ### Security Modules
 
@@ -47,7 +47,7 @@ Evaluated on the **[deepset/prompt-injections](https://huggingface.co/datasets/d
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 rocklm/
@@ -82,7 +82,7 @@ rocklm/
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. Clone & Install
 
@@ -129,7 +129,7 @@ Results are saved to `logs/benchmark_results.json` and `logs/benchmark_results.l
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 ```
 User Prompt
@@ -169,7 +169,7 @@ User Prompt
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **Gradio** — Interactive web interface
@@ -182,12 +182,12 @@ User Prompt
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
 ---
 
-## 👤 Author
+## Author
 
 **Amal Raju** — [GitHub](https://github.com/amal0307)
